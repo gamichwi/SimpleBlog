@@ -18,3 +18,12 @@
     font-family: 'Sacramento', cursive;
     font-size: xx-large;
 }
+body {
+    padding-bottom: 70px;
+}
+
+#gavin{
+    color:white;
+    font-family: 'Sacramento', cursive;
+    font-size: x-large;
+}
